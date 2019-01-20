@@ -1,6 +1,7 @@
 ---
 title: Post with Header Image
 tags: TeXt
+categories: SampleCat
 article_header:
   type: cover
   image:

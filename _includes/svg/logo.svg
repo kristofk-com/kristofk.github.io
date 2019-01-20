@@ -1,8 +1,15 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24">
-<style type="text/css">
-	.st0{fill:#515151;}
-</style>
-<path class="st0" d="M1.7,22.3c5.7-5.7,11.3-5.7,17,0c3.3-3.3,3.5-5.3,0.8-6c2.7,0.7,3.5-1.1,2.3-5.6s-3.3-5.2-6.3-2.1
-	c3-3,2.3-5.2-2.1-6.3S7,1.8,7.7,4.6C7,1.8,5,2.1,1.7,5.3C7.3,11,7.3,16.7,1.7,22.3"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="1000px" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" opacity="0" x="0" y="0" width="1000" height="1000"></rect>
+        <text id="K" transform="translate(276.476234, 480.994332) rotate(-45.271851) translate(-276.476234, -480.994332) " font-family="KohinoorTelugu-Semibold, Kohinoor Telugu" font-size="500" font-weight="500" letter-spacing="6.02941179" fill="#FF0000">
+            <tspan x="117.976234" y="655.994332">K</tspan>
+        </text>
+        <text id="K-Copy" transform="translate(734.023766, 518.005668) scale(-1, 1) rotate(45.363464) translate(-734.023766, -518.005668) " font-family="KohinoorTelugu-Semibold, Kohinoor Telugu" font-size="500" font-weight="500" letter-spacing="6.02941179" fill="#000000">
+            <tspan x="586.023766" y="692.005668">K</tspan>
+        </text>
+    </g>
 </svg>
