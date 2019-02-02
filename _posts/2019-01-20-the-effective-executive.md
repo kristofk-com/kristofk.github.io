@@ -1,11 +1,28 @@
 ---
+published: false
 title: >
   The Effective Executive<br />
   The definitive guide to getting things done<br />
   by Peter F. Drucker
 tags: Books
 date: 2019-01-20 12:00:00
+cover: "/postsassets/2019-01-20-the-effective-executive/The Effective Executive Thumbnail-min.png"
+
+layout: article
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: overlay
+  theme: light
+  background_color: '#203028'
+  background_image:
+    src: /The-Effective-Executive-Thumbnail-min.png
 ---
+
+> What makes an effective executive? The measure of the executive, Peter F. Drucker reminds us, is the ability to "get the right things done." This usually involves doing what other people have overlooked as well as avoiding what is unproductive. Intelligence, imagination, and knowledge may all be wasted in an executive job without the acquired habits of mind that mold them into results. Drucker identifies five practices essential to business effectiveness that can, and must, be learned: Managing time Choosing what to contribute to the organization Knowing where and how to mobilize strength for best effect Setting the right priorities Knitting all of them together with effective decision-making Ranging widely through the annals of business and government, Peter F. Drucker
+
+<!--more-->
 
 I listened to this book with Audible at 1.5x speed for the most part. It didn’t take me long to finish this book. It takes less then a week for me and I can only imagine how fast proficient readers can burn through this book.
 I got the inspiration to read this book from the **Cortex** podcast. I’m also writing this review after the book was discussed in the aforementioned podcast.
@@ -64,6 +81,3 @@ Since employees there have a lot of freedom to make decisions and the only thing
 Now this is obviously oversimplifying Netflix, but the principles are there. Every employee at Netflix is a Knowledge worker and an effective executive.
 
 I recommend this book to anyone who hasn’t gotten deep into the self development, soft skills and professional growth books. If you have already read books on books on self development, then you probably heard all these principles so you could skip this book.
-
-My affiliate link to buy this book on Amazon:
----
