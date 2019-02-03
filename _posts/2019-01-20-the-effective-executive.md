@@ -5,8 +5,9 @@ title: >
   The definitive guide to getting things done<br />
   by Peter F. Drucker
 tags: Books
+categories: cat1
 date: 2019-01-20 12:00:00
-cover: "/postsassets/2019-01-20-the-effective-executive/The Effective Executive Thumbnail-min.png"
+cover: https://res.cloudinary.com/kristofk-com/image/upload/v1549220137/posts/2019-01-20-the-effective-executive/The_Effective_Executive_Thumbnail-min.png
 
 layout: article
 mode: immersive
@@ -17,7 +18,7 @@ article_header:
   theme: light
   background_color: '#203028'
   background_image:
-    src: /The-Effective-Executive-Thumbnail-min.png
+    src: https://res.cloudinary.com/kristofk-com/image/upload/v1549220137/posts/2019-01-20-the-effective-executive/The_Effective_Executive_Thumbnail-min.png
 ---
 
 > What makes an effective executive? The measure of the executive, Peter F. Drucker reminds us, is the ability to "get the right things done." This usually involves doing what other people have overlooked as well as avoiding what is unproductive. Intelligence, imagination, and knowledge may all be wasted in an executive job without the acquired habits of mind that mold them into results. Drucker identifies five practices essential to business effectiveness that can, and must, be learned: Managing time Choosing what to contribute to the organization Knowing where and how to mobilize strength for best effect Setting the right priorities Knitting all of them together with effective decision-making Ranging widely through the annals of business and government, Peter F. Drucker
