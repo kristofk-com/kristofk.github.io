@@ -1,14 +1,10 @@
 ---
-published: false
 title: A new beginning
+date: 2019-02-03
 ---
 
-Hello there,
+Hello new world...
 
-Welcome to the new face of kristofk.com. This is the new version of kristofk.com. The previous version was created with WordPress. However for the content that is hosted on this website I decided that a static website would be better suited so here we are.
+This is the new face of kristofk.com. This version of the website is static so it should much better than the previous version which was developed using Wordpress.
 
-The previous version of this website with all my old blog posts and content can still be found at [wp.kristofk.com](https://wp.kristofk.com) which of course stands for wordpress.kristofk.com.
-
-The reason I'm keeping the old website is because I spent a lot of time developing content for it and also, it host my [micro.blog](https://micro.blog/kristofk) account.
-
-Going into the future only this website will receive new content and updates.
+All my previous content still lives securely on the previous version of my website available at [old.kristofk.com](https://old.kristofk.com).
