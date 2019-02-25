@@ -214,8 +214,10 @@ defaults:
 
 ## => Plugins
 ##############################
+safe: false
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - splashtag
